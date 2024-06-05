@@ -1,0 +1,87 @@
+body{
+        background-color: #f4f4f9;
+}
+.container{
+border: 2px dotted #ff7;
+width: 55%;
+background-color: aliceblue;
+margin-top: 1%;
+margin-left: 20%;
+}
+h1{
+    margin-top: 10%;
+    margin-left: 20%;  
+}
+h2{
+    margin-left: 8px;
+}
+#First{
+    padding: 5px 6px;
+    margin-right: 4px;
+    border:1px solid rgb(154, 154, 40);
+    margin-left: 6px;
+}
+#Middle{
+    padding: 5px 6px;
+    border:1px solid rgb(154, 154, 40);
+}
+#Last{
+    padding: 5px 6px;
+    margin-left: 4px;
+    border:1px solid rgb(154, 154, 40);
+}
+#ad1{
+    padding: 5px 6px;
+    margin-right: 4px;
+    width: 87%;
+    margin-left: 6px;
+    margin-bottom: 9px;
+    border:1px solid rgb(154, 154, 40);
+}
+#ad2{
+    padding: 5px 6px;
+    margin-right: 4px;
+    width: 87%;
+    margin-left: 6px;
+    margin-bottom: 9px;
+    border:1px solid rgb(154, 154, 40);
+}
+#city{
+    padding: 5px 6px;
+    margin-left: 4px;
+    border:1px solid rgb(154, 154, 40);
+}
+#state{
+    padding: 5px 6px;
+    margin-left: 4px;
+    border:1px solid rgb(154, 154, 40);
+}
+#zip{
+    padding: 5px 6px;
+    margin-left: 4px;
+    border:1px solid rgb(154, 154, 40);
+}
+#add{
+    padding: 10px 20px;
+    background-color: #5cabff;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    cursor: pointer;
+    margin-left: 30%;
+    margin-bottom: 10px;
+}
+ul{
+    padding: 0;
+    list-style-type: none;
+}
+li{
+    border-bottom: 1px solid #ddd;
+    padding: 10px;
+}
+li:hover{
+    background-color: lightgray;
+}
+li:last-child{
+    padding: none;
+}
